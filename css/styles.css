@@ -516,7 +516,7 @@ section {
 
 /*sect4*/
 .sect4 {
-    background: #05b7d9;
+    background: #f27000;
 }
 
 .sect4 .title {
@@ -661,7 +661,7 @@ section {
 
 /*sect8*/
 .sect8 {
-    background: #05b7d9;
+    background: #f27000;
     color: #fff;
 }
 
@@ -751,7 +751,7 @@ section {
 .reviews .owl-next {
     width: 52px;
     height: 52px;
-    background: #05b7d9 url(../images/rev_arrow.png) 0% 50% no-repeat;
+    background: #f27000 url(../images/rev_arrow.png) 0% 50% no-repeat;
     border-radius: 3px;
     position: absolute;
     bottom: 0;
