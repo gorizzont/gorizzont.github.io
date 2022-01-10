@@ -234,7 +234,7 @@ section {
     top: 3px;
 }
 
-.timer {
+/*.timer {
     color: #fff;
     margin-bottom: 30px;
 }
@@ -288,7 +288,7 @@ section {
     position: absolute;
     top: 6px;
     right: -18px;
-}
+}*/
 
 .price {
     font-size: 0;
