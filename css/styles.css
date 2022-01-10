@@ -751,7 +751,7 @@ section {
 .reviews .owl-next {
     width: 52px;
     height: 52px;
-    background: #f27000 url(../images/rev_arrow.png) 0% 50% no-repeat;
+    background: #f2ea008c url(../images/rev_arrow.png) 0% 50% no-repeat;
     border-radius: 3px;
     position: absolute;
     bottom: 0;
